@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js asynchronous programming: unhandled exceptions occurring after a response has been sent to the client.  The `bug.js` file contains a server that simulates this scenario. The `bugSolution.js` demonstrates a solution using error handling in the asynchronous operation.
